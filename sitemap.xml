@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/project/project1/</loc>
+    <loc>https://world-online.github.io/online/project/project1/</loc>
   </url><url>
-    <loc>http://example.com/project/project2/</loc>
+    <loc>https://world-online.github.io/online/project/project2/</loc>
   </url><url>
-    <loc>http://example.com/project/project3/</loc>
+    <loc>https://world-online.github.io/online/project/project3/</loc>
   </url><url>
-    <loc>http://example.com/project/project4/</loc>
+    <loc>https://world-online.github.io/online/project/project4/</loc>
   </url><url>
-    <loc>http://example.com/post/creating-a-new-theme/</loc>
+    <loc>https://world-online.github.io/online/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/go/</loc>
+    <loc>https://world-online.github.io/online/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/golang/</loc>
+    <loc>https://world-online.github.io/online/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/hugo/</loc>
+    <loc>https://world-online.github.io/online/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/</loc>
+    <loc>https://world-online.github.io/online/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/post/</loc>
+    <loc>https://world-online.github.io/online/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://world-online.github.io/online/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/themes/</loc>
+    <loc>https://world-online.github.io/online/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/post/goisforlovers/</loc>
+    <loc>https://world-online.github.io/online/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/development/</loc>
+    <loc>https://world-online.github.io/online/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/post/hugoisforlovers/</loc>
+    <loc>https://world-online.github.io/online/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/template/</loc>
+    <loc>https://world-online.github.io/online/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/jekyll/</loc>
+    <loc>https://world-online.github.io/online/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://world-online.github.io/online/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/static-site-generator/</loc>
+    <loc>https://world-online.github.io/online/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.com/about/</loc>
+    <loc>https://world-online.github.io/online/about/</loc>
   </url><url>
-    <loc>http://example.com/tags/bootstrap/</loc>
+    <loc>https://world-online.github.io/online/tags/bootstrap/</loc>
   </url><url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://world-online.github.io/online/categories/</loc>
   </url><url>
-    <loc>http://example.com/tags/css/</loc>
+    <loc>https://world-online.github.io/online/tags/css/</loc>
   </url><url>
-    <loc>http://example.com/tags/highlight-js/</loc>
+    <loc>https://world-online.github.io/online/tags/highlight-js/</loc>
   </url><url>
-    <loc>http://example.com/tags/html/</loc>
+    <loc>https://world-online.github.io/online/tags/html/</loc>
   </url><url>
-    <loc>http://example.com/tags/js/</loc>
+    <loc>https://world-online.github.io/online/tags/js/</loc>
   </url><url>
-    <loc>http://example.com/project/</loc>
+    <loc>https://world-online.github.io/online/project/</loc>
   </url><url>
-    <loc>http://example.com/tags/responsive/</loc>
+    <loc>https://world-online.github.io/online/tags/responsive/</loc>
   </url><url>
-    <loc>http://example.com/tags/syntax-highlighting/</loc>
+    <loc>https://world-online.github.io/online/tags/syntax-highlighting/</loc>
   </url>
 </urlset>
