@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teches on 人间真实</title>
-    <link>https://world-online.github.io/online/tech/</link>
+    <link>https://world-online.github.io/tech/</link>
     <description>Recent content in Teches on 人间真实</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2022 22:24:24 +0800</lastBuildDate><atom:link href="https://world-online.github.io/online/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 22:24:24 +0800</lastBuildDate><atom:link href="https://world-online.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>https://world-online.github.io/online/tech/linux/</link>
+      <link>https://world-online.github.io/tech/linux/</link>
       <pubDate>Thu, 31 Mar 2022 22:24:24 +0800</pubDate>
       
-      <guid>https://world-online.github.io/online/tech/linux/</guid>
+      <guid>https://world-online.github.io/tech/linux/</guid>
       <description>Linux 是我非常崇拜的系统，也可以说是技术。
 因为在我的印象里，成功的技术就应该是这样，无孔不入，无处不在。
 学习Linux势在必行！

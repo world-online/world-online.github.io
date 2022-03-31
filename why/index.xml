@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whies on 人间真实</title>
-    <link>https://world-online.github.io/online/why/</link>
+    <link>https://world-online.github.io/why/</link>
     <description>Recent content in Whies on 人间真实</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://world-online.github.io/online/why/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://world-online.github.io/why/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为什么我要写博客？</title>
-      <link>https://world-online.github.io/online/why/why/</link>
+      <link>https://world-online.github.io/why/why/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://world-online.github.io/online/why/why/</guid>
+      <guid>https://world-online.github.io/why/why/</guid>
       <description>我为什么要写这个博客？
 需要理由吗？当然需要！
 就在前几天，一架飞机失事了，一百多人，尸骨无存。

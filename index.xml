@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>人间真实</title>
-    <link>https://world-online.github.io/online/</link>
+    <link>https://world-online.github.io/</link>
     <description>Recent content on 人间真实</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2022 22:33:31 +0800</lastBuildDate><atom:link href="https://world-online.github.io/online/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 22:33:31 +0800</lastBuildDate><atom:link href="https://world-online.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Last Words</title>
-      <link>https://world-online.github.io/online/world/last-words/</link>
+      <link>https://world-online.github.io/world/last-words/</link>
       <pubDate>Thu, 31 Mar 2022 22:33:31 +0800</pubDate>
       
-      <guid>https://world-online.github.io/online/world/last-words/</guid>
+      <guid>https://world-online.github.io/world/last-words/</guid>
       <description>我的遗言 其实我还没想好我要写什么遗言，而且我也不知道遗言该怎么写，但是，这个位置必须得占着，我哪天想起来了，我一定把他给补上。</description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://world-online.github.io/online/tech/linux/</link>
+      <link>https://world-online.github.io/tech/linux/</link>
       <pubDate>Thu, 31 Mar 2022 22:24:24 +0800</pubDate>
       
-      <guid>https://world-online.github.io/online/tech/linux/</guid>
+      <guid>https://world-online.github.io/tech/linux/</guid>
       <description>Linux 是我非常崇拜的系统，也可以说是技术。
 因为在我的印象里，成功的技术就应该是这样，无孔不入，无处不在。
 学习Linux势在必行！
@@ -42,10 +42,10 @@
     
     <item>
       <title>为什么我要写博客？</title>
-      <link>https://world-online.github.io/online/why/why/</link>
+      <link>https://world-online.github.io/why/why/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://world-online.github.io/online/why/why/</guid>
+      <guid>https://world-online.github.io/why/why/</guid>
       <description>我为什么要写这个博客？
 需要理由吗？当然需要！
 就在前几天，一架飞机失事了，一百多人，尸骨无存。
