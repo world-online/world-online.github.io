@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://world-online.github.io/people/</loc>
+    <lastmod>2022-04-02T23:16:22+08:00</lastmod>
+  </url><url>
+    <loc>https://world-online.github.io/tags/</loc>
+    <lastmod>2022-04-02T23:16:22+08:00</lastmod>
+  </url><url>
+    <loc>https://world-online.github.io/tags/%E4%BA%BA%E7%89%A9/</loc>
+    <lastmod>2022-04-02T23:16:22+08:00</lastmod>
+  </url><url>
+    <loc>https://world-online.github.io/</loc>
+    <lastmod>2022-04-02T23:16:22+08:00</lastmod>
+  </url><url>
+    <loc>https://world-online.github.io/people/%E6%88%91%E7%9A%84%E7%88%B7%E7%88%B7/</loc>
+    <lastmod>2022-04-02T23:16:22+08:00</lastmod>
+  </url><url>
+    <loc>https://world-online.github.io/tags/%E7%88%B7%E7%88%B7/</loc>
+    <lastmod>2022-04-02T23:16:22+08:00</lastmod>
+  </url><url>
     <loc>https://world-online.github.io/world/2022-4-2/</loc>
     <lastmod>2022-04-02T22:05:18+08:00</lastmod>
   </url><url>
-    <loc>https://world-online.github.io/tags/</loc>
-    <lastmod>2022-04-02T22:05:18+08:00</lastmod>
-  </url><url>
     <loc>https://world-online.github.io/world/</loc>
-    <lastmod>2022-04-02T22:05:18+08:00</lastmod>
-  </url><url>
-    <loc>https://world-online.github.io/</loc>
     <lastmod>2022-04-02T22:05:18+08:00</lastmod>
   </url><url>
     <loc>https://world-online.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
